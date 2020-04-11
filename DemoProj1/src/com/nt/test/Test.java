@@ -10,4 +10,7 @@ public class Test {
 		System.out.println("Hi");
 	}
 
+	public void M1() {
+		System.out.println("M1() method modified ,,,abc");
+	}
 }
